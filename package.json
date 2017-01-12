@@ -1,0 +1,24 @@
+{
+  "name": "brian",
+  "private": true,
+  "scripts": {
+    "start": "meteor run",
+    "test": "mocha"
+  },
+  "dependencies": {
+    "babel-runtime": "6.18.0",
+    "chai": "^3.5.0",
+    "express": "^4.14.0",
+    "meteor-node-stubs": "~0.2.0",
+    "mocha": "^3.2.0",
+    "request": "^2.79.0"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "author": "Brian Chaves",
+  "license": "ISC",
+  "description": ""
+}

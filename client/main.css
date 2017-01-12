@@ -1,0 +1,13 @@
+/* CSS declarations go here */
+.small-text
+{
+	font-size: 10px;
+}
+.newMessageTextArea
+{
+	width: 500px
+}
+.deleteMessage
+{
+	font-size: 10px
+}
